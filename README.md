@@ -1,4 +1,4 @@
-![](./readmeImg/banner.png)
+
 
 
 A `HTML, CSS` Project. There will be 5 pages in the website (HomePage, MenuPage, AboutPage, ContactPage, BookingPage). 
